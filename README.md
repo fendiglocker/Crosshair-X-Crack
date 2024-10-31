@@ -1,7 +1,6 @@
-Free and open-source crack wallpaper engine. set any window or video as your wallpaper
+Free and open-source crack Crosshair X. set any window or video as your wallpaper
 
-https://camo.githubusercontent.com/70dc1e7e2639b5e917146d39ed55ba99329a99b9dd246229e2fe37e4a77092e1/68747470733a2f2f692e696d6775722e636f6d2f487179317558322e676966
-
+![Screenshot_2](https://github.com/user-attachments/assets/b9d6e991-cb66-4a6d-b66b-a0d16e95e1d4)
 
 github doesn't like having big gifs in the readme, so here's a imgur gallery
 
